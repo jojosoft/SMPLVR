@@ -1,0 +1,21 @@
+# This file defines names for each vertex you want to use during a validation process.
+FingerTipLeft = 2446
+FingerTipRight = 5906
+HeadTop = 412
+HeelLeft = 3466
+ShoulderLeft = 3012
+ShoulderRight = 5291
+ShoulderTop = 4272
+EllbowRight = 5130
+EllbowLeft = 1658
+BellyButton = 3501
+NippleRight = 6489
+NippleLeft = 3041
+Crotch = 1210
+BackBellyButton = 3022
+ChestRight = 4892
+ChestLeft = 1420
+HipRight = 4165
+HipLeft = 677
+WaistRight = 4963
+WaistLeft = 1489

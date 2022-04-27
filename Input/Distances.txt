@@ -1,0 +1,13 @@
+# Contains the distances to measure. The names must be defined in the vertex number file!
+HeelLeft, HeadTop, Height
+HeelLeft, Crotch, Inseam
+WaistLeft, HeelLeft, WaistHeight
+HipLeft, HeelLeft, HipHeight
+FingerTipRight, FingerTipLeft, ArmSpan
+EllbowRight, EllbowLeft, ElbowSpan
+ShoulderRight, ShoulderLeft, ShoulderWidth
+NippleRight, NippleLeft, BreastWidth
+ChestRight, ChestLeft, ChestWidth
+HipRight, HipLeft, HipWidth
+WaistRight, WaistLeft, WaistWidth
+BackBellyButton, BellyButton, BellyDepth

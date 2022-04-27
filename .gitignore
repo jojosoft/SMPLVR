@@ -1,0 +1,17 @@
+.DS_Store
+Library
+Temp
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.exe
+*_Data
+*.pyc
+regressor/backup
+/data*.txt
+/Build
+/Output
+/Input/Participants
+/Assets/SteamVR/*
