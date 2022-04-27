@@ -1,6 +1,6 @@
 # SMPLVR
 
-During my bachelor's thesis about personalized avatars in virtual reality with SMPL, I developed a validation tool and a template scene for a self-avatar scenario, which can both be found inside this project made with Unity 5.5.0f3.
+During my [bachelor's thesis](https://www.johannes-schirm.de/research/thesis/bachelor-self-avatars-in-virtual-reality/) about personalized avatars in virtual reality with SMPL, I developed a validation tool and a template scene for a self-avatar scenario, which can both be found inside this project made with Unity 5.5.0f3.
 
 ## Usage
 
